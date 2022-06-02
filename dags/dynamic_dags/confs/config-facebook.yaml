@@ -1,0 +1,6 @@
+dag_id: 'dag-facebook'
+input: 3333
+owner: facebook
+tags:  ["app=facebook"]
+start_date: "2002-06-03"
+cron_schedule: "0 0 * * *"
